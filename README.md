@@ -1,25 +1,28 @@
-# CoreFuel  
-Your Personalized Fitness Companion 💪🔥
-
-## 📋 Overview  
-**CoreFuel** is a full-stack fitness web application designed to help users achieve their health goals through tailored workout plans, nutrition tracking, and motivational tools. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides a powerful yet user-friendly platform that integrates cutting-edge APIs for a seamless fitness experience.
+# CoreFuel
+**Your Personalized Fitness Companion**
 
 ---
 
-## 🚀 Features  
-- 🔥 **Personalized Workout Programs** based on user goals (gain muscle, lose fat, maintain weight)  
-- 📊 **Calorie & Macronutrient Calculator** to track intake and output  
-- 💡 **Motivational Quotes Generator** updated daily to keep users inspired  
-- 🧠 **Educational Nutrition Section** showing protein-rich and healthy food options  
-- ✅ **Form-Check API Integration** to ensure proper exercise techniques  
-- 📅 **Frequency Graph** that shows training consistency over time  
-- 📌 **Body Anatomy Tool** to select muscle groups and view relevant exercises  
-- 🧾 **Cheat Meal Tracker** using a third-party API  
-- 👥 **Community Support Page** linked to Instagram for sharing tips and feedback
+## Overview
+**CoreFuel** is a full-stack fitness web application designed to help users reach their health goals through customized workout plans, nutrition tracking, and motivational tools. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), CoreFuel delivers a seamless and intuitive experience with powerful features backed by integrated APIs.
 
 ---
 
-## 🛠️ Setup Instructions
+## Features
+
+- **Personalized Workout Programs** — Tailored to goals such as muscle gain, fat loss, or maintenance
+- **Calorie & Macronutrient Calculator** — Tracks daily intake and expenditure
+- **Daily Motivational Quotes** — Keeps users engaged and inspired
+- **Educational Nutrition Section** — Highlights protein-rich and healthy food options
+- **Form-Check API** — Ensures correct exercise techniques
+- **Workout Frequency Graph** — Visualizes training consistency over time
+- **Body Anatomy Tool** — Displays exercises targeting specific muscle groups
+- **Cheat Meal Tracker** — Integrated with a third-party API
+- **Community Page** — Links to Instagram for shared tips and feedback
+
+---
+
+## Setup Instructions
 
 ```bash
 # 1. Clone the repository
@@ -29,16 +32,20 @@ git clone https://github.com/mhmdosama15/corefuel.git
 cd corefuel
 
 # 3. Install backend dependencies
-cd server && npm install
+cd server
+npm install
 
 # 4. Install frontend dependencies
-cd ../client && npm install
+cd ../client
+npm install
 
 # 5. Start the backend
-cd ../server && npm start
+cd ../server
+npm start
 
 # 6. Start the frontend
-cd ../client && npm run dev
+cd ../client
+npm run dev
 ```
 
-
+---
