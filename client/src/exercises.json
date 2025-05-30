@@ -1,0 +1,26 @@
+[
+  { "name": "Back-seated lat pull downs", "image": "assets/images/Back.jpg" },
+  { "name": "Lat Pull Down", "image": "assets/images/Back.jpg" },
+  { "name": "Lat Push downs", "image": "assets/images/Back.jpg" },
+  { "name": "Single arm lat pull down", "image": "assets/images/Back.jpg" },
+  { "name": "Wide grip cable rows", "image": "assets/images/Back.jpg" },
+  { "name": "Chest Press", "image": "assets/images/chest.jpeg" },
+  { "name": "Chest Dips", "image": "assets/images/chest.jpeg" },
+  { "name": "Incline Dumbbell Press", "image": "assets/images/chest.jpeg" },
+  { "name": "Machine Chest Press", "image": "assets/images/chest.jpeg" },
+  { "name": "Pec Deck", "image": "assets/images/chest.jpeg" },
+  { "name": "Arnold Shoulder Press", "image": "assets/images/shoulders.jpg" },
+  { "name": "Barbell Shoulder Press", "image": "assets/images/shoulders.jpg" },
+  { "name": "Leaning Reverse Press", "image": "assets/images/shoulders.jpg" },
+  { "name": "Leaning Shoulder Curl", "image": "assets/images/shoulders.jpg" },
+  { "name": "Shoulder Press", "image": "assets/images/shoulders.jpg" },
+  { "name": "Shrugs", "image": "assets/images/shoulders.jpg" },
+  { "name": "Calf Raise", "image": "assets/images/Legs.jpg" },
+  { "name": "Leg Curl", "image": "assets/images/Legs.jpg" },
+  { "name": "Leg Extensions", "image": "assets/images/Legs.jpg" },
+  { "name": "Squats", "image": "assets/images/Legs.jpg" },
+  { "name": "V-Ups", "image": "assets/images/core.jpg" },
+  { "name": "Knee to Elbow", "image": "assets/images/core.jpg" },
+  { "name": "Plank", "image": "assets/images/core.jpg" }
+ 
+]
